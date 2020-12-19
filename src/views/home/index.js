@@ -111,7 +111,7 @@ function Home() {
 
                         <div className="tag-side tag-2-side">
                             <div className="tag-text tag-2-text">
-                                Happy<br/>Holidays
+                                God bless<br/>You!
                                 <div className="rule-diagonal"></div>
                             </div>
                         </div>
